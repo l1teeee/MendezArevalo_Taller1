@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+}
+
+.tabla{
+    width: 32vw;
+    background-color: #FFE9AE;
+    border-radius: 12px;
+    margin-top:6vw;
+    margin-left: 30%;
+}
+
+.tabla h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 1vw;
+}
+
+.nombres{
+    margin: 2vw;
+}
+
+label{
+    margin: 2vw;
+}
+
+#tit{
+    margin-left: 2vw;
+    width: 80%;
+
+}
+
+#edad{
+    margin-left: 2vw;
+    width: 80%;
+
+}
+
+.nombres h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+
+.nombres input{
+    width: 95%;
+    border-radius: 5px;
+    height: 1.8vw;
+}
+
+
+
+
+.selec{
+    margin: 2vw;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.selecci{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+
+}
+
+.selecci input{
+    margin-left: 15px;
+    
+}
+
+.selecci h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 10px;
+}
